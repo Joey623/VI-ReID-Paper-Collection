@@ -33,5 +33,5 @@
 
 * **[Calibrating Segmentation Networks with Margin-based Label Smoothing](https://arxiv.org/pdf/2209.09641.pdf).** *Balamurali Murugesan, Bingyuan Liu, Adrian Galdran, Ismail Ben Ayed and Jose Dolz.*
 
-* **[SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation](https://arxiv.org/pdf/2209.08575.pdf).** * Meng-Hao Guo, Cheng-Ze Lu, Qibin Hou, Zhengning Liu, Ming-Ming Cheng and Shi-Min Hu.*
+* **[SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation](https://arxiv.org/pdf/2209.08575.pdf).** *Meng-Hao Guo, Cheng-Ze Lu, Qibin Hou, Zhengning Liu, Ming-Ming Cheng and Shi-Min Hu.*
 

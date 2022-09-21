@@ -9,7 +9,7 @@
 
 * **[On-Device Domain Generalization](https://arxiv.org/pdf/2209.07521.pdf).** *Kaiyang Zhou, Yuanhan Zhang, Yuhang Zang, Jingkang Yang, Chen Change Loy and Ziwei Liu.*
 
-* **[A ConvNet for the 2020s(CVPR2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf).** *Zhuang Liu, Hanzi Mao. Chao-Yuan Wu, Christoph Feichtenhofer, Trevor Darrell and Sainning Xie.* 
+* **[A ConvNet for the 2020s](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf).** *Zhuang Liu, Hanzi Mao. Chao-Yuan Wu, Christoph Feichtenhofer, Trevor Darrell and Sainning Xie.*  **CVPR2022.**
 
 ## 2022.9.20
 * **[Deep Variation Prior: Joint Image Denoising and Noise Variance Estimation without Clean Data](https://arxiv.org/pdf/2209.09214.pdf).** *Rihuan Ke.*

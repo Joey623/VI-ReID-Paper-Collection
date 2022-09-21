@@ -1,5 +1,5 @@
 # Daily-Paper-Collection
-***
+
 ## 2022.9.21
 
 * **[Sampling Agnostic Feature Representation for Long-Term Person Re-identification](https://arxiv.org/pdf/2209.09574.pdf).** *Seongyeop Yang, Byeongkeun Kang, and Yeejin Lee.*
@@ -11,4 +11,4 @@
 
 * **[Calibrating Segmentation Networks with Margin-based Label Smoothing](https://arxiv.org/pdf/2209.09641.pdf).** *Balamurali Murugesan, Bingyuan Liu, Adrian Galdran, Ismail Ben Ayed, Jose Dolz.*
 
-***
+

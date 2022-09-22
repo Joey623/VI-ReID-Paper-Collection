@@ -35,3 +35,6 @@
 
 * **[SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation](https://arxiv.org/pdf/2209.08575.pdf).** *Meng-Hao Guo, Cheng-Ze Lu, Qibin Hou, Zhengning Liu, Ming-Ming Cheng and Shi-Min Hu.*
 
+## 2022.9.22
+* **[Learning with Noisy Labels by Efficient Transition Matrix Estimation to Combat Label Miscorrection](https://arxiv.org/pdf/2111.14932.pdf).** *Seong Min Kye, Kwanghee Choi, Joonyoung Yi and Buru Chang.*  **ECCV2022.**
+

@@ -38,3 +38,7 @@
 ## 2022.9.22
 * **[Learning with Noisy Labels by Efficient Transition Matrix Estimation to Combat Label Miscorrection](https://arxiv.org/pdf/2111.14932.pdf).** *Seong Min Kye, Kwanghee Choi, Joonyoung Yi and Buru Chang.*  **ECCV2022.**
 
+* **[Negative Samples are at Large: Leveraging Hard-distance Elastic Loss for Re-identification](https://arxiv.org/pdf/2207.09884.pdf).** *Hyungtae Lee, Sungmin Eum and Heesung Kwon.*  **ECCV2022.**
+
+* **[Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing](https://arxiv.org/pdf/2207.09935.pdf).** *Xin Yu, Peng Dai, Wenbo Li, Lan Ma, Jiajun Shen, Jia Li and Xiaojuan Qi.*  **ECCV2022.**
+

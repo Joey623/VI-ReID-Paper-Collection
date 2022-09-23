@@ -42,3 +42,11 @@
 
 * **[Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing](https://arxiv.org/pdf/2207.09935.pdf).** *Xin Yu, Peng Dai, Wenbo Li, Lan Ma, Jiajun Shen, Jia Li and Xiaojuan Qi.*  **ECCV2022.**
 
+## 2022.9.23
+* **[Learning Visual Explanations for DCNN-Based Image Classifiers Using an Attention Mechanism](https://arxiv.org/pdf/2209.11189.pdf).** *Ioanna Gkartzonika, Nikolaos Gkalelis and Vasileios Mezaris.*  **ECCV2022.**
+
+* **[Attention is All They Need: Exploring the Media Archaeology of the Computer Vision Research Paper](https://arxiv.org/pdf/2209.11200.pdf).** *Samuel Goree, Gabriel Appleby, David Crandall and Norman Su.*
+
+* **[Layer Freezing & Data Sieving: Missing Pieces of a Generic Framework for Sparse Training](https://arxiv.org/pdf/2209.11204.pdf).** *Geng Yuan, Yanyu Li, Sheng Li, Zhenglun Kong, Sergey Tulyakov, Xulong Tang, Yanzhi Wang and Jian Ren.*  **NeurIPS 2022.**
+
+* **[A Spatial-channel-temporal-fused Attention for Spiking Neural Networks](https://arxiv.org/pdf/2209.10837.pdf).** *Wuque Cai, Hongze Sun, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao and Daqing Guo.*

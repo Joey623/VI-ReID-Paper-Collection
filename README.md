@@ -53,3 +53,5 @@
 
 ## 2022.9.24
 * **[Faster Person Re-Identification](https://arxiv.org/pdf/2008.06826.pdf).** *Guan'an Wang, Shaogang Gong, Jian Cheng and Zengguang Hou.*  **ECCV2020.**
+
+* **[Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection](https://arxiv.org/pdf/2007.12211.pdf).** * Jing Zhang, Jianwen Xie and Nick Barnes.*  **ECCV2020.**

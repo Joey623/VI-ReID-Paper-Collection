@@ -59,3 +59,5 @@
 * **[Temporal Complementary Learning for Video Person Re-Identification](https://arxiv.org/pdf/2007.09357.pdf).** *Ruibing Hou, Hong Chang, Bingpeng Ma, Shiguang Shan and Xilin Chen.*  **ECCV2020.**
 
 * **[Appearance-Preserving 3D Convolution for Video-based Person Re-identification](https://arxiv.org/pdf/2007.08434.pdf).** *Xinqian Gu, Hong Chang, Bingpeng Ma, Hongkai Zhang and Xilin Chen.*  **ECCV2020.**
+
+* **[Global Distance-distributions Separation for Unsupervised Person Re-identification](https://arxiv.org/pdf/2006.00752.pdf).** *Xin Jin, Cuiling Lan, Wenjun Zeng and Zhibo Chen.*  **ECCV2020.**

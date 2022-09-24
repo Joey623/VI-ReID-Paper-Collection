@@ -50,3 +50,6 @@
 * **[Layer Freezing & Data Sieving: Missing Pieces of a Generic Framework for Sparse Training](https://arxiv.org/pdf/2209.11204.pdf).** *Geng Yuan, Yanyu Li, Sheng Li, Zhenglun Kong, Sergey Tulyakov, Xulong Tang, Yanzhi Wang and Jian Ren.*  **NeurIPS 2022.**
 
 * **[A Spatial-channel-temporal-fused Attention for Spiking Neural Networks](https://arxiv.org/pdf/2209.10837.pdf).** *Wuque Cai, Hongze Sun, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao and Daqing Guo.*
+
+## 2022.9.24
+* **[Faster Person Re-Identification](https://arxiv.org/pdf/2008.06826.pdf).** *Guan'an Wang, Shaogang Gong, Jian Cheng and Zengguang Hou.*  **ECCV2020.**

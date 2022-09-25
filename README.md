@@ -61,3 +61,6 @@
 * **[Appearance-Preserving 3D Convolution for Video-based Person Re-identification](https://arxiv.org/pdf/2007.08434.pdf).** *Xinqian Gu, Hong Chang, Bingpeng Ma, Hongkai Zhang and Xilin Chen.*  **ECCV2020.**
 
 * **[Global Distance-distributions Separation for Unsupervised Person Re-identification](https://arxiv.org/pdf/2006.00752.pdf).** *Xin Jin, Cuiling Lan, Wenjun Zeng and Zhibo Chen.*  **ECCV2020.**
+
+## 2022.9.25
+* **[Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/pdf/2001.04193.pdf).** *Mang Ye, Jianbing Shen, Gaojie Lin, Tao Xiang, Ling Shao and Steven C. H. Hoi.*

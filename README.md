@@ -64,3 +64,6 @@
 
 ## 2022.9.25
 * **[Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/pdf/2001.04193.pdf).** *Mang Ye, Jianbing Shen, Gaojie Lin, Tao Xiang, Ling Shao and Steven C. H. Hoi.*
+
+## 2022.9.26
+* **[TriReID: Towards Multi-Modal Person Re-Identification via Descriptive Fusion Model](https://dl.acm.org/doi/pdf/10.1145/3512527.3531397).** *Yajing Zhai, Yawen Zeng, Da Cao and Shaofei Lu.*  **ACM**

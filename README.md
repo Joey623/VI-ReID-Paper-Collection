@@ -67,3 +67,6 @@
 
 ## 2022.9.26
 * **[TriReID: Towards Multi-Modal Person Re-Identification via Descriptive Fusion Model](https://dl.acm.org/doi/pdf/10.1145/3512527.3531397).** *Yajing Zhai, Yawen Zeng, Da Cao and Shaofei Lu.*  **ACM**
+
+## 2022.9.27
+* **[Visible-Infrared Person Re-Identification Using Privileged Intermediate Information](https://arxiv.org/pdf/2209.09348.pdf).** *Mahdi Alehdaghi, Arthur Josi, Rafael M. O. Cruz and Eric Granger.*

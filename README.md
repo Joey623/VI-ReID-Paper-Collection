@@ -70,3 +70,7 @@
 
 ## 2022.9.27
 * **[Visible-Infrared Person Re-Identification Using Privileged Intermediate Information](https://arxiv.org/pdf/2209.09348.pdf).** *Mahdi Alehdaghi, Arthur Josi, Rafael M. O. Cruz and Eric Granger.*
+
+
+## 2022.9.29
+* **[Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection](https://arxiv.org/pdf/2209.13801.pdf).** *Maoxun Yuan, Yinyan Wang and Xingxing Wei.*

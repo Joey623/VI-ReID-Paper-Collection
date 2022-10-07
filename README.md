@@ -74,3 +74,6 @@
 
 ## 2022.9.29
 * **[Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection](https://arxiv.org/pdf/2209.13801.pdf).** *Maoxun Yuan, Yinyan Wang and Xingxing Wei.*
+
+## 2022.10.7
+* **[How Image Generation Helps Visible-to-Infrared Person Re-Identification?](https://arxiv.org/pdf/2210.01585.pdf).** *Honghu Pan, Yongyong Chen, Yunqi He, Xin Li and Zhenyu He.*

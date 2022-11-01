@@ -1,4 +1,4 @@
-# Daily-Paper-Collection
+# VI-ReID-Paper-Collection
 
 ## 2022.9.19
 * **[Towards Improving Calibration in Object Detection Under Domain Shift](https://arxiv.org/pdf/2209.07601.pdf).** *Muhammad Akhtar Munir, Muhammad Haris Khan, M. Saquib Sarfraz and Mohsen Ali.*
